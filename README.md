@@ -10,4 +10,5 @@
 [SOLID por FreeCodeCamp](https://www.freecodecamp.org/espanol/news/los-principios-solid-explicados-en-espanol/)
 
 ## Practicas 
+
 [Torneo de Batallas ](https://github.com/italovisconti/Guias-Practicas-Topicos/blob/main/Torneo%20Pokemon%20Asincrono/Practica%20-%20Torneo%20Pokemon%20Asincrono.md)
